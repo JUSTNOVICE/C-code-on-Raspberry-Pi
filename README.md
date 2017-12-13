@@ -9,3 +9,4 @@ what I've done are as follows:
 dht11.c can measure temperature and humidity, then upload the measured data.
 
 InfraredPost.c can make infrared sensor sense the presence of human, then upload the measured signal and judge whether there is a human in front of the sensor.
+ 
